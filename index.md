@@ -1,6 +1,6 @@
 #                                  Blog
 
-<<<<<<< HEAD
+
 ![](./assets/img.jpg)
 =======
 ![](\assets\img.jpg)
